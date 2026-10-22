@@ -1,6 +1,6 @@
 CodeAlpha Calculator
 
-About
+##Task 1:
 
 A simple calculator program written in C for basic arithmetic operations.
 
@@ -27,3 +27,53 @@ How to Run
 Author
 
 Tanvi Shukla
+
+## Task 2: Matrix Operations in C
+
+### Description
+A C program that performs basic matrix operations.
+
+### Features
+- Matrix Addition
+- Matrix Multiplication
+- Matrix Transpose
+
+### Concepts Used
+- Two-dimensional arrays
+- Nested loops
+- User input and output
+
+### File
+`matrix_operations.c`
+
+---
+
+## Task 3: Student Management System
+
+### Description
+A C program to manage student records using file handling.
+
+### Features
+- Add Student
+- Display Students
+- Search Student
+- Update Student
+- Delete Student
+
+### Concepts Used
+- Structures
+- Functions
+- File Handling
+- Loops and Conditional Statements
+
+### File
+`student_management.c`
+
+---
+
+## Author
+Tanvi Shukla
+
+## Purpose
+These projects are created for learning C programming
+and completing CodeAlpha internship tasks.
